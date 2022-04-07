@@ -7,7 +7,7 @@ def radixSort(data):
     dev = 1  # 第几位数，个位数为1，十位数为10···
     mod = 10  # 求余数的除法
     for i in range(max_digit):
-        radix_queue = [list() for k in range(mod * 2)]  # 考虑到负数，我们用两倍队列
+        radix_queue = [list() for k in range(mod * 2)]
         for j in range(len(data)):
             radix = int(((data[j] % mod) / dev) + mod)
             radix_queue[radix].append(data[j])
