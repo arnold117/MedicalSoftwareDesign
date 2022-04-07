@@ -1,0 +1,4 @@
+D:\Python39\python.exe D:/Users/Arnold/Documents/UNDERGRATUATE/CLASS/MedicalSoftwareDesign/homework/a20220407_heapSort/Python_heapSort/headSort.py
+[3, 5, 10, 12, 16, 34, 45, 46, 75, 91, 100]
+
+Process finished with exit code 0
