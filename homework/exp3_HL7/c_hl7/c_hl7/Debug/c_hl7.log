@@ -1,0 +1,20 @@
+﻿  hl7.cpp
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(43,5): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(69,7): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(184,25): error C2665: 'strset': none of the 2 overloads could convert all the argument types
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(62,1): message : could be 'char *strset(char *)'
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(184,25): message : while trying to match the argument list '(const char [1])'
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(249,25): error C2446: '==': no conversion from 'int' to 'char *'
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(249,19): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(291,23): error C2665: 'strset': none of the 2 overloads could convert all the argument types
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(62,1): message : could be 'char *strset(char *)'
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(291,23): message : while trying to match the argument list '(const char [1])'
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(308,3): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(443,3): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(469,3): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\hl7.cpp(474,3): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\main.cpp(32,19): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\main.cpp(9,17): warning C4101: 's3': unreferenced local variable
+D:\Users\Arnold\Documents\UNDERGRADUATE\MedicalSoftwareDesign\homework\exp3_HL7\c_hl7\c_hl7\main.cpp(9,23): warning C4101: 's4': unreferenced local variable
+  Generating Code...
